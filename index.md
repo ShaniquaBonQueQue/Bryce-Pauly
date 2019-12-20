@@ -36,17 +36,16 @@ body {
 <body>
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a class="active" href="#Home">Home</a>
+  <a href="#About Me">About Me</a>
+  <a href="#Portfolio">Portfolio</a>
 </div>
 
 <div style="padding-left:16px">
-  <h2>Top Navigation Example</h2>
-  <p>Some content..</p>
+  <h2>Welcome to my website, very cool</h2>
+  <img src="quirkbot.jpg" alt="Wow look at those " class="center">
+  <h3>dang look at dis website, pretty dope wont lie</h3>
 </div>
 
 </body>
 </html>
-
